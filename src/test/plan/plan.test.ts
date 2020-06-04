@@ -1,4 +1,4 @@
-import {getPlan} from "../../main/plan/service"
+import {getPlan} from "../../main/graphql/plan/service"
 
 
 test('if can get professional description', async () => {

@@ -16,6 +16,7 @@
     "dotenv": "^8.2.0",
     "graphql": "^15.0.0",
     "graphql-tools": "^6.0.7",
+    "merge-graphql-schemas": "^1.7.8",
     "node-html-parser": "^1.2.18"
   },
   "devDependencies": {
