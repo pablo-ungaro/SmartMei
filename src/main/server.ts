@@ -8,5 +8,5 @@ dotenv.config()
 const server = new ApolloServer({ typeDefs:userSchema, resolvers:userResolver });
 
 server.listen().then(({ url }) => {
-    console.log(`🚀  Server ready at ${url}`);
+    console.log(`🚀  Server ready at ${url}graphql`);
 });
