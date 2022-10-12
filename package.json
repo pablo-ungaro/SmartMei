@@ -11,7 +11,7 @@
     "test": "jest --setupFiles dotenv/config"
   },
   "dependencies": {
-    "apollo-server": "^2.14.1",
+    "apollo-server": "^2.25.4",
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
     "graphql": "^15.0.0",
